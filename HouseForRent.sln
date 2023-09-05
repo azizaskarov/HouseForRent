@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseForRent.Api", "HouseFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseForRent.Api.Tests.Unit", "HouseForRent.Api.Tests.Unit\HouseForRent.Api.Tests.Unit.csproj", "{DA978A43-A97F-42A6-ADE2-72D4C5DF5EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseForRent.Api.Infrastructure.Build", "HouseForRent.Api.Infrastructure.Build\HouseForRent.Api.Infrastructure.Build.csproj", "{4479AA94-AFB3-47EC-B114-8813E7705E69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA978A43-A97F-42A6-ADE2-72D4C5DF5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA978A43-A97F-42A6-ADE2-72D4C5DF5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA978A43-A97F-42A6-ADE2-72D4C5DF5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4479AA94-AFB3-47EC-B114-8813E7705E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4479AA94-AFB3-47EC-B114-8813E7705E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4479AA94-AFB3-47EC-B114-8813E7705E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4479AA94-AFB3-47EC-B114-8813E7705E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
